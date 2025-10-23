@@ -146,6 +146,7 @@ The default font size is "medium".
 
 See the tabs on the right for examples of different font sizes.
 
+
 * * *
 
 ```yaml section-metadata
