@@ -14,13 +14,6 @@ author: Jeremy Magland, Center for Computational Mathematics, Flatiron Institute
 * Getting started with Figpack Slides
 * The main markdown file - index.md
 * Rules for slides
-* Tabs
-* Font sizes
-* Embedding images
-* Embedding iframes
-* Embedding external markdown files
-* Custom Figpack views
-* Customization
 * Developing and building
 * Hosting on GitHub Pages
 
@@ -145,7 +138,7 @@ slide-type: tabs-on-right
 
 Font sizes can be controlled using the following section metadata:
 
-```yaml section-metadata
+```
 font-size: small | medium-small | medium | medium-large | large
 ```
 
