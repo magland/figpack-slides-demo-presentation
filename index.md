@@ -54,6 +54,10 @@ This presentation will show you how to use Figpack Slides to create your own pre
 
 The first step is to copy (don't fork) this repository as a template for your own presentation.
 
+https://github.com/magland/figpack-slides-demo-presentation
+
+If you clone it, you'll want to remove the .git directory and initialize a new git repository using `git init`.
+
 Here's what you'll see in the template repository:
 
 ```bash
