@@ -10,6 +10,25 @@ author: Jeremy Magland, Center for Computational Mathematics, Flatiron Institute
 
 # Outline
 
+```yaml slide-metadata
+elements:
+- id: '1'
+  type: shape
+  shape: arrow
+  direction: right
+  position:
+    x: 968.9999988750003
+    y: 672.7499834062521
+  size:
+    length: 400
+    thickness: 80
+  style:
+    stroke: '#000000'
+    strokeWidth: 2
+    fill: '#a86161'
+```
+
+
 * What are Figpack and Figpack Slides?
 * Getting started with Figpack Slides
 * The main markdown file - index.md
@@ -287,15 +306,16 @@ plot-color: "#00B000"
 
 ```yaml slide-metadata
 elements:
-- type: shape
+- id: '0'
+  type: shape
   shape: arrow
   direction: right
   position:
-    x: 900
-    y: 400
+    x: 442.4881202000025
+    y: 303.84496085559374
   size:
-    width: 100
-    height: 50
+    length: 200
+    thickness: 100
   style:
     stroke: blue
     strokeWidth: 2
